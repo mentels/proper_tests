@@ -1,0 +1,4 @@
+:name "proper_tests_edts"
+:node-sname "proper_tests_edts"
+:lib-dirs '("deps" "test")
+:app-include-dirs '("include")
